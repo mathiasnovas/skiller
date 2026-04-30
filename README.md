@@ -1,7 +1,7 @@
 # skillecta
 
 <p align="center">
-  <img width="200" alt="skiller_pointer_transparent" src="https://github.com/user-attachments/assets/44d87138-9ffd-4add-850a-c10de9fc1181" />
+  <img width="200" alt="skillecta_pointer_transparent" src="https://github.com/user-attachments/assets/44d87138-9ffd-4add-850a-c10de9fc1181" />
 </p>
 
 Keep your AI agent skills in sync. One source of truth, symlinked everywhere.
