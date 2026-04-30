@@ -18,6 +18,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasnovas/skillecta.git"
+  },
+  "homepage": "https://github.com/mathiasnovas/skillecta#readme",
+  "bugs": {
+    "url": "https://github.com/mathiasnovas/skillecta/issues"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^25.6.0",
