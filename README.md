@@ -4,6 +4,10 @@ Keep your AI agent skills in sync. One source of truth, symlinked everywhere.
 
 If you use multiple AI coding assistants (Claude, Cursor, etc.) and want to share skills between them, `skiller` manages the symlinks so you don't have to.
 
+<p align="center">
+  <img width="200" alt="skiller_pointer_transparent" src="https://github.com/user-attachments/assets/44d87138-9ffd-4add-850a-c10de9fc1181" />
+</p>
+
 ## Install
 
 ```sh
